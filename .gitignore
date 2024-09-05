@@ -1,0 +1,34 @@
+/dcrm/settings.py
+
+# Python bytecode files
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django specific
+*.log
+*.sqlite3
+db.sqlite3
+
+# Environment variable files
+.env
+
+# Media and static files (if stored locally)
+media/
+static/
+
+# IDE/editor folders and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# System files
+.DS_Store
+Thumbs.db
+
+
+
+
+
